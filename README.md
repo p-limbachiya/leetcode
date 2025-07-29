@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/p-limbachiya/leetcode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/p-limbachiya/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/p-limbachiya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/p-limbachiya/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/p-limbachiya/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/p-limbachiya/leetcode/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/p-limbachiya/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/p-limbachiya/leetcode/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
