@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/p-limbachiya/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/p-limbachiya/leetcode/tree/master/0012-integer-to-roman) |
+| [1070-convert-to-base-2](https://github.com/p-limbachiya/leetcode/tree/master/1070-convert-to-base-2) |
 ## String
 |  |
 | ------- |
